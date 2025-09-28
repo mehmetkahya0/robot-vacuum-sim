@@ -428,8 +428,6 @@ copies or substantial portions of the Software.
 ## 📞 Support & Contact
 
 - **Issues**: [GitHub Issues](https://github.com/mehmetkahya0/robot-vacuum-sim/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mehmetkahya0/robot-vacuum-sim/discussions)
-- **Documentation**: [Project Wiki](https://github.com/mehmetkahya0/robot-vacuum-sim/wiki)
 
 ## 📈 Project Statistics
 
@@ -443,4 +441,3 @@ copies or substantial portions of the Software.
 
 **🌟 Star this repository if you found it helpful for learning robotics and AI!**
 
-*Made with ❤️ for robotics education and autonomous systems research*
